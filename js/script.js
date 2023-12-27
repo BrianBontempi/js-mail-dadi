@@ -30,3 +30,9 @@ const result = `
 
 resultElement.innerHTML = result;
 })
+
+// ___________________________________________________
+
+// ! creo array con le mail autorizzate
+
+const allowedEmails = ["brian@boolean.it", "marco@boolean.it", "michele@boolean.it", "marius@boolean.it"];
